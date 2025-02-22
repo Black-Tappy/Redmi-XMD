@@ -1,4 +1,4 @@
-https://i.imgur.com/hk3vZ9W.jpeg
+
 #        Redmi-XMD 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
 
    <a>
