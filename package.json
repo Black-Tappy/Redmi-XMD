@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "Redmi-XMD"
   ],
-  "author": "Bright",
+  "author": "blacktappy",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
