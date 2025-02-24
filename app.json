@@ -1,5 +1,5 @@
 {
-  "name": "✨Redmi-XMD✨",
+  "name": "♻️𝙍𝙚𝙙𝙢𝙞-𝙓𝙈𝘿♻️",
   "description": "This BOT was developed by 🅑r̸𝐢𝖌𝖍t̸_×͜×.",
   "keywords": [
     "bot",
@@ -49,7 +49,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Redmi-XMD",
+      "value": "𝙍𝙚𝙙𝙢𝙞-𝙓𝙈𝘿",
       "required": false
     },
     "BOT_MENU_LINKS": {
