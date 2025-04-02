@@ -1,5 +1,3 @@
-
-
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -23,5 +21,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "popkid.js"]
+CMD ["npm", "run" , "casey.js"]
 
